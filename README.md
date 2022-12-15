@@ -18,6 +18,6 @@ Stored them in csv file
 > you could find them in Datasets/twitterdata.csv
 
 Manually we have classified 1000 tweets whether they are complete or incomplete as 1 and 0.
-> Stored them in Datasets/Datasetforbert - Sheet1.csv
+> Stored them in Datasets/DatasetforNLP.csv
 
 Used that data for classification, you could find indepth info in **NLP_TEAM5.ipynb**
